@@ -51,7 +51,7 @@
     "qunit-dom": "^0.8.4"
   },
   "engines": {
-    "node": "8.* || >= 10.*"
+    "node": "^10.0.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
