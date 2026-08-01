@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd checkpoint-modal`
+* `cd ember-addon-modal` (the repo directory; `checkpoint-modal` is the `package.json` name, not the clone path)
 * `npm install`
 
 ## Linting
