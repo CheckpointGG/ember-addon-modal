@@ -1,0 +1,16 @@
+# CODEOWNERS — GEEIQ engineering
+#
+# GitHub requests a review from the owners below whenever a pull request
+# touches a matching path. Last matching pattern wins.
+# Syntax reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Owners were derived from this repository's commit history (2026-08-24, ENG-5703).
+# Wrong owner? Open a PR against this file — it is the source of truth.
+#
+# Individual handles are used deliberately rather than @CheckpointGG/<team>:
+# GitHub only honours a team as a code owner when that team has *explicit*
+# write access on the repository, which is not yet granted estate-wide.
+# Migration to team handles is tracked on ENG-5703.
+
+# Default owners for everything in the repo.
+*       @andrew-checkpoint
